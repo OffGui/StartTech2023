@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Righteous&family=Rubik&family=Sarala:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: #242424;
+}
+
+#principal h1, #contato h1 {
+    color: #ffffff;
+    font-size: 36px;
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+#slides {
+    margin: 30px;
+}
+
+.nome  {
+    color: #ffffff;
+}
+
+.email {
+    color: #ffffff;
+}
+
+.assunto {
+    color: #ffffff;
+}
+
+.mensagem {
+    color: #ffffff;
+}
+
+#principal h1::first-letter {
+    color: wheat;
+}
+
+#footer-sucesso {
+    margin-bottom: 0;
+}
+
+#principal p {
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 25px;
+    margin-top: 100px;
+    font-family: 'Sarala', sans-serif;
+}
+
+.destaque {
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    font-size: 25px;
+    margin-top: 50px;
+    font-family: 'Sarala', sans-serif;
+}
+
+.produto a {
+    margin-top: 10px;
+}
+
+#cabecalho {
+    width: 100%;
+    height: 120px;
+    background-color: #1B1B1B;
+}
+
+#logo img {
+    margin-top:16px;
+}
+
+.nav {
+    margin-right:20px;
+}
+
+#menu ul {
+    display: flex;
+    justify-content: end;
+    padding-top: 48px;
+}
+
+#menu ul li {
+    padding-left: 36px;
+}
+
+#menu ul li a {
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    height: 24px;
+    padding-bottom: 4px;
+    text-decoration: none;
+}
+
+#menu ul li a:hover {
+    color: orange;
+}
+
+.form{
+    margin-left: 20px;
+    width: 200px;
+}
+
+.lupa {
+    display: flex;
+    height: 20px;
+}
+
+.produto { 
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+    -webkit-box-shadow: 0px 0px 16px 1px rgba(0,0,0,0.04);
+    -moz-box-shadow: 0px 0px 16px 1px rgba(0,0,0,0.04);
+    box-shadow: 0px 0px 16px 1px rgba(0,0,0,0.04);
+    background-color: #333;
+}
+
+.produto h4 {
+    font-family: 'Rubik', sans-serif;
+    font-size: 21px;
+    margin-top: 15px;
+    color: #ffffff;
+}
+
+.produto img {
+    width: 100%;
+}
+
+.preco {
+    font-size: 1.5rem;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+    width: calc(100% - 30px);
+    background-color: #242424;
+    color: #4CCC3C;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.botao:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: orange;
+    transition: background-color 1.5s;
+}
+
+#quem-somos img {
+    width: 100%;
+}
+
+#quem-somos .texto {
+    padding-left: 40px;
+}
+
+#quem-somos h2 {
+    font-family: 'Merriweather', serif;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 24px;
+    color: #3C4E58;
+}
+
+#quem-somos a, #contato input[type="submit"] {
+    font-family: 'Merriweather', serif;
+    margin-top: 20px;
+    background-color: #1B1B1B;
+    color: white;
+}
+
+#rodape {
+    margin-top: 40px;
+    padding-top: 40px;
+    padding-bottom: 90px;
+    background-color: #1B1B1B;
+    color: #ffffff;
+}
+
+#rodape h2 {
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+#rodape li, #rodape p {
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    line-height: 1.75em;
+}
+
+#rodape a {
+    color: #F1E1F4;
+    text-decoration: none;
+}
+
+#rodape button {
+    color: #ffffff;
+    background-color: #1B1B1B;
+}
+
+#contato h1 {
+    font-family: 'Rubik', sans-serif;
+}
+
+#contato form {
+    padding-top: 40px;
+}
+
+@media (max-width: 768px) {
+    #logo img {
+        width: 100px;
+    }
+    #menu {
+        background-color: #1B1B1B;
+        padding: 0;
+    }
+    #menu ul {
+        margin-bottom: 100px;
+        padding-top: 12px;
+        justify-content: space-around;
+    }
+    
+    #menu ul li {
+        padding: 0 8px;
+    }
+    #principal h1 {
+        font-size: 32px;
+        text-align: center;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        line-height: 48px;
+    }
+    #principal p {
+        text-align: center;
+    }
+    #texto p {
+        text-align: left;
+    }
+    #rodape .col-lg-4 {
+        padding-bottom: 40px;
+    }
+    #contato h1 {
+        padding-top: 30px;
+    }
+}
+
+
+
