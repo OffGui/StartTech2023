@@ -4,7 +4,7 @@ Meus projetos / atividades desenvolvidas durante a segunda edição do programa 
 
 <hr>
 
-Para acessar os projetos, veja o <a href="./Portif%C3%B3lio/index.html">Meu Portifólio</a>
+Para acessar os projetos, acesse o <a href="./Portif%C3%B3lio/index.html">Meu Portifólio</a>
 
 <hr>
 
