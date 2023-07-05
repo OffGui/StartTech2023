@@ -1,8 +1,6 @@
 # START &lt;Tech&gt;
 
-Meus projetos / atividades desenvolvidas durante a segunda edição do programa Start , da Universidade TOTVS , em parceria com a Ada Tech e o IOS - Instituto da Oportunidade Social.
-
-
+Meus projetos / atividades desenvolvidas durante a segunda edição do programa Start <Tech>, da Universidade TOTVS , em parceria com a Ada Tech e o IOS - Instituto da Oportunidade Social.
 
 <hr>
 
