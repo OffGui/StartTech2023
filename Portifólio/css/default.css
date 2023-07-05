@@ -83,6 +83,13 @@ body {
     text-decoration: none;
 }
 
+#rodape {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    background-color: rgb(24, 28, 35);
+}
+
 @media (max-width: 890px) {
     #card1, #card2{
         width: 80%;
