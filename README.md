@@ -5,7 +5,7 @@ Neste repositório você irá encontrar todos os meus projetos realizados durant
 
 <hr>
 
-Para acessar os projetos, veja o <a href="https://guilhermefdsilva.github.io/STARTTech/Portf%C3%B3lio/">Meu Portifólio</a>
+Para acessar os projetos, veja o <a href="./Portif%C3%B3lio/index.html">Meu Portifólio</a>
 
 <hr>
 
