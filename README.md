@@ -1,7 +1,7 @@
 # START &lt;Tech&gt;
 
-Segunda edição do programa START &lt;Tech&gt;, da Universidade TOTVS, em parceria com a Ada Tech e o IOS - Instituto da Oportunidade Social.
-Neste repositório você irá encontrar todos os meus projetos realizados durante as aulas, e também meus projetos autorais avaliativos.
+Meus projetos / atividades desenvolvidas durante a segunda edição do programa Start , da Universidade TOTVS , em parceria com a Ada Tech e o IOS - Instituto da Oportunidade Social.
+
 
 <hr>
 
